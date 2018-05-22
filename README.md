@@ -1,1 +1,2 @@
-# hello-word
+# hello-words
+今天是个好日子
